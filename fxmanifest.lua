@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 author 'JMC'
-description 'A script for admins to troll players'
+description 'This script is designed for admins to troll players using commands.'
 
 server_scripts {
 	'server/**.lua'
