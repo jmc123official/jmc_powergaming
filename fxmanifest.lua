@@ -5,8 +5,7 @@ author 'JMC'
 description 'A script for admins to troll players'
 
 server_scripts {
-	'server/**.lua',
-	'permission.lua'
+	'server/**.lua'
 }
 
 client_scripts {
