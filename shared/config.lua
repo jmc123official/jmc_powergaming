@@ -1,5 +1,5 @@
 Config = {}
-
+---Config is not set now.
 Config.burn = true
 Config.conehead = true
 Config.crash = true
